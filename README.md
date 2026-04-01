@@ -1,2 +1,3 @@
 # Master-Thesis
-Master Thesis 
+
+Master thesis project repository.
